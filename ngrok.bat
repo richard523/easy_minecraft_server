@@ -1,0 +1,1 @@
+cd ngrok && ngrok tcp 25565
