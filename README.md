@@ -1,4 +1,4 @@
-# easy_minecraft_server for windows
+# easy_minecraft_server for windows (using ngrok instead of port-forward)
 
 Download ngrok
 
